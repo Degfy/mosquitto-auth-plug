@@ -37,7 +37,7 @@
 #include <unistd.h>
 #include <mosquitto.h>
 #include <mosquitto_plugin.h>
-#include <mosquitto_broker.h>
+#include "./mosquitto_broker.h"
 #include "log.h"
 #include "hash.h"
 #include "backends.h"
